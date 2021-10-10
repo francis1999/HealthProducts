@@ -1,0 +1,17 @@
+.maincontent{margin-top: 80px;}
+.text-info{color: white;}
+Nav.Link a{color: white;}
+.navbarmenu{display: none;font-size: large;}
+
+.color-nav {background-color: #ff5500;}
+.color-nav Nav Nav.Link{color: white;}
+.navigationss{display: none;}
+.d-flex{float: right;}
+.maintain .rowcontent .col1{height: 400px;margin-top: 30px;}
+.maintain .rowcontent .col1 h1{font-size: 60px;}
+
+.discount{background-color: indigo;text-align: center;padding: 5px;color: white;}
+.shopnownow{background-color: tomato;font-weight: bold;padding: 5px;border-radius: 5px;width: 400px;height: 100px;}
+.colsright2{height: 300px;}
+.secondpager{margin-bottom: 30px;}
+
